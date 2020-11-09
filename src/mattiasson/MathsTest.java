@@ -49,7 +49,7 @@ public class MathsTest {
 
 	// 7
 	@Test
-	public void biggerThanIntTest1() {
+	public void biggerThanIntTest2() {
 		assertEquals(100, mathsTest.biggerThanInt(50, 100));
 	}
 
